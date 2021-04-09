@@ -1,0 +1,1 @@
+export const baseApiUrl = 'http://192.168.10.204:8008/erp/Api/'
